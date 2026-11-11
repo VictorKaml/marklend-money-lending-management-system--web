@@ -62,7 +62,7 @@ async function forceSignOut(message,auditAction='SIGN_OUT'){
   startupStatus('Sign in to MarkLend','Your secure session has ended. Sign in to continue.');
   $('connection').textContent='Supabase configured';$('connection').classList.remove('ok');
   /* the screen is already back; server clean-up is best effort and cannot block the UI */
-  if(had)await withTimeout(sb.rpc('record_auth_event',{p_action:auditAction,p_details:{source:'desktop'}}),2500);
+  if(had)await withTimeout(sb.rpc('record_auth_event',{p_action:auditAction,p_details:{source:'web'}}),2500);
   if(sb)await withTimeout(sb.signOut(),3000);
 }
 async function signOutApp(){await forceSignOut('You have been signed out of MarkLend.','SIGN_OUT')}

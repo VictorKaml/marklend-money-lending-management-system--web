@@ -1,13 +1,8 @@
-/node_modules
-/build-resources
-/dist
-/build
-/release-zips
-
-# Secrets. .env is bundled into the installer (Supabase URL + public anon key ONLY).
-# The GitHub release token belongs in .env.release, which is never packaged.
+.next/
+node_modules/
+out/
 .env
-.env.release
-.env.drizzle
-.env.old
-.env.example
+.env.*
+!.env.example
+!.env.release.example
+.DS_Store

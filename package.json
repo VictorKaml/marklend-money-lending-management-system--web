@@ -1,86 +1,23 @@
 {
-  "$schema": "https://json.schemastore.org/package.json",
   "name": "marklend-web",
-  "productName": "MarkLend Web",
   "version": "1.0.0",
-  "description": "MarkLend browser lending management application for Vercel",
-  "main": "main.js",
+  "private": true,
+  "description": "MarkLend browser-based lending management application",
   "scripts": {
-    "start": "electron .",
-    "dist": "electron-builder --win",
-    "test": "node tests/e2e.js && node --test tests/release.test.js",
-    "test:release": "node --test tests/release.test.js",
-    "bump": "node scripts/bump.js patch",
-    "bump:minor": "node scripts/bump.js minor",
-    "bump:major": "node scripts/bump.js major",
-    "package:zip": "node scripts/package-zip.js",
-    "release": "node scripts/release.js patch",
-    "release:patch": "node scripts/release.js patch",
-    "release:minor": "node scripts/release.js minor",
-    "release:major": "node scripts/release.js major",
-    "release:current": "node scripts/release.js --current",
-    "release:dry": "node scripts/release.js patch --dry-run",
-    "release:publish": "node scripts/release.js --publish-only",
-    "db:pull": "drizzle-kit pull",
-    "db:studio": "drizzle-kit studio",
-    "db:check": "drizzle-kit check"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
-  "author": "MarkLend",
-  "license": "UNLICENSED",
   "dependencies": {
-    "electron-updater": "^6.3.9",
-    "dotenv": "^16.4.7"
+    "next": "^15.5.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
-    "@types/pg": "^8.11.10",
-    "adm-zip": "^0.5.16",
-    "drizzle-kit": "^0.31.11",
-    "drizzle-orm": "^0.45.3",
-    "electron": "^31.7.7",
-    "electron-builder": "^24.13.3",
-    "jsdom": "^25.0.1",
-    "pg": "^8.16.3",
-    "typescript": "^5.6.3"
-  },
-  "overrides": {
-    "yauzl": "^3.3.1"
-  },
-  "build": {
-    "appId": "com.marklend.desktop",
-    "productName": "MarkLend",
-    "files": [
-      "main.js",
-      "preload.js",
-      "index.html",
-      "src/**/*",
-      "assets/**/*",
-      "supabase/**/*",
-      "README.md",
-      ".env"
-    ],
-    "icon": "assets/icons/icon.ico",
-    "publish": {
-      "provider": "github",
-      "owner": "VictorKaml",
-      "repo": "marklend-money-lending-management-system",
-      "releaseType": "release"
-    },
-    "win": {
-      "target": [
-        {
-          "target": "nsis",
-          "arch": [
-            "x64"
-          ]
-        }
-      ],
-      "icon": "assets/icons/icon.ico"
-    },
-    "nsis": {
-      "oneClick": false,
-      "allowToChangeInstallationDirectory": true,
-      "createDesktopShortcut": true,
-      "createStartMenuShortcut": true
-    }
+    "@types/node": "^22.15.30",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.7",
+    "typescript": "^5.8.3"
   }
 }
