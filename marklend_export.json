@@ -1,0 +1,2132 @@
+{
+    "profiles": [
+        {
+            "id": "4fb584c8-7ce2-4730-92cf-38a6bd8b4e86",
+            "full_name": "Victor Kamlomo",
+            "role": "Loan Officer",
+            "created_at": "2026-10-02T09:43:34.678466+00:00",
+            "email": "kamlomovictor@gmail.com",
+            "avatar": null
+        },
+        {
+            "id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "full_name": "Marcus Kavala",
+            "role": "Admin",
+            "created_at": "2026-09-30T08:31:48.134787+00:00",
+            "email": null,
+            "avatar": "adm-key"
+        }
+    ],
+    "borrowers": [
+        {
+            "id": "32ba29ba-d82f-4f72-bce2-1eef34fbbdca",
+            "user_id": null,
+            "full_name": "Victor",
+            "phone": "0994414580",
+            "email": "kaml@gmail.com",
+            "risk_level": "Low",
+            "kyc_status": "Verified",
+            "created_at": "2026-09-30T08:42:08.211964+00:00",
+            "updated_at": "2026-09-30T08:42:08.211964+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "9e3528b6-1d66-4d88-ba56-1547abd6db31",
+            "user_id": null,
+            "full_name": "philip gundo",
+            "phone": "0998590663",
+            "email": "philipgundo@gmail.com",
+            "risk_level": "High",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-05T20:44:08.41133+00:00",
+            "updated_at": "2026-10-05T20:44:08.41133+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "96499d72-ca41-435f-b66c-beaa97cf4acb",
+            "user_id": null,
+            "full_name": "ma shiraz",
+            "phone": "0996206672",
+            "email": "shiraz@gmail.com",
+            "risk_level": "Low",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-06T09:49:41.676482+00:00",
+            "updated_at": "2026-10-06T09:49:41.676482+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "9d346ee6-1fc7-4ee8-bbaa-af61bdccdc10",
+            "user_id": null,
+            "full_name": "namoyo",
+            "phone": "0997171940",
+            "email": "namoyo@gmail.com",
+            "risk_level": "Medium",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-08T15:43:01.512932+00:00",
+            "updated_at": "2026-10-08T15:43:01.512932+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "d98b0057-4616-480e-a7dc-a8b2201e8787",
+            "user_id": null,
+            "full_name": "gloria ng\"ambi",
+            "phone": "0986820777",
+            "email": "gloriang\"ambi@gmail.com",
+            "risk_level": "Medium",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-08T15:46:48.442369+00:00",
+            "updated_at": "2026-10-08T15:46:48.442369+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "265e8d2b-a395-4f79-bba6-8baa1c1dab07",
+            "user_id": null,
+            "full_name": "charles lihoma",
+            "phone": "0992711185",
+            "email": "lihomacharles@gmail.com",
+            "risk_level": "Low",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-08T15:50:11.82144+00:00",
+            "updated_at": "2026-10-08T15:50:11.82144+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "5300ebe2-a9ac-4881-8348-d2a38d621b29",
+            "user_id": null,
+            "full_name": "Ibrahim Jagodi",
+            "phone": "0999433064",
+            "email": "ibrahimjagodi88@gmail.com",
+            "risk_level": "Medium",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-09T08:14:44.575481+00:00",
+            "updated_at": "2026-10-09T08:14:44.575481+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "72d2b69a-6bd4-40be-894f-47644ae0dbeb",
+            "user_id": null,
+            "full_name": "Gloria",
+            "phone": "0997171940",
+            "email": "gloria@gmail.com",
+            "risk_level": "Low",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-09T12:18:19.360912+00:00",
+            "updated_at": "2026-10-09T12:18:19.360912+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "5f73989d-4648-4e34-a7eb-60bbdec25c87",
+            "user_id": null,
+            "full_name": "Tawina mbenza",
+            "phone": "0885382522",
+            "email": "ttmbeza@gmail.com",
+            "risk_level": "Medium",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-10T10:10:35.289055+00:00",
+            "updated_at": "2026-10-10T10:10:35.289055+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "a414c587-00ea-407f-845a-f126c3cd318e",
+            "user_id": null,
+            "full_name": "Emmanuel Kanyoza",
+            "phone": "0992234444",
+            "email": "kanyozaemmanuel94@gmail.com",
+            "risk_level": "Medium",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-10T10:42:27.770316+00:00",
+            "updated_at": "2026-10-10T10:42:27.770316+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "11410e65-3286-4ef4-8088-d736242a6dca",
+            "user_id": null,
+            "full_name": "sakina njelenga",
+            "phone": "0990922010",
+            "email": "sakinanjelenga@gmail.com",
+            "risk_level": "Medium",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-12T08:41:40.165902+00:00",
+            "updated_at": "2026-10-12T08:41:40.165902+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "f524eab2-1435-4d0e-b366-d0e26d1e00c7",
+            "user_id": null,
+            "full_name": "precious maganizo manjawa",
+            "phone": "0999797590",
+            "email": "maganizomanjawa@gmail.com",
+            "risk_level": "High",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-12T09:00:05.035527+00:00",
+            "updated_at": "2026-10-12T09:00:05.035527+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        },
+        {
+            "id": "4aa82185-1889-4780-946d-3d9e8e9e40fc",
+            "user_id": null,
+            "full_name": "Jonathan Mhango",
+            "phone": "0993809789",
+            "email": "jwmhango96@gmail.com",
+            "risk_level": "Medium",
+            "kyc_status": "Verified",
+            "created_at": "2026-10-14T08:35:34.987506+00:00",
+            "updated_at": "2026-10-14T08:35:34.987506+00:00",
+            "borrower_type": "Individual",
+            "business_name": null
+        }
+    ],
+    "loans": [
+        {
+            "id": "4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "loan_number": "ML-20261001065335065-C49D74",
+            "borrower_id": "32ba29ba-d82f-4f72-bce2-1eef34fbbdca",
+            "principal_minor": 5000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 2500,
+            "frequency": "Lumpsum",
+            "disbursement_date": "2026-10-01",
+            "maturity_date": "2026-10-14",
+            "status": "Completed",
+            "created_at": "2026-10-01T06:53:35.035404+00:00",
+            "approved_at": "2026-10-01T06:54:45.572055+00:00",
+            "updated_at": "2026-10-01T06:57:00.280478+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-01"
+        },
+        {
+            "id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "loan_number": "ML-20260930084933621-027621",
+            "borrower_id": "32ba29ba-d82f-4f72-bce2-1eef34fbbdca",
+            "principal_minor": 10000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 5000,
+            "frequency": "Lumpsum",
+            "disbursement_date": "2026-10-01",
+            "maturity_date": "2026-10-14",
+            "status": "Completed",
+            "created_at": "2026-09-30T08:49:33.609146+00:00",
+            "approved_at": "2026-10-01T06:54:51.358498+00:00",
+            "updated_at": "2026-10-02T07:18:43.951709+00:00",
+            "rejection_reason": null,
+            "start_date": null
+        },
+        {
+            "id": "ed2c8de8-7cdf-4e6c-a21c-e8433b8cf1fd",
+            "loan_number": "ML-20261005204507989-09F611",
+            "borrower_id": "9e3528b6-1d66-4d88-ba56-1547abd6db31",
+            "principal_minor": 15,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 5000,
+            "frequency": "Monthly",
+            "disbursement_date": null,
+            "maturity_date": "2026-11-04",
+            "status": "Rejected",
+            "created_at": "2026-10-05T20:45:07.964749+00:00",
+            "approved_at": null,
+            "updated_at": "2026-10-05T20:46:36.383953+00:00",
+            "rejection_reason": "fail to pay on time",
+            "start_date": "2026-10-04"
+        },
+        {
+            "id": "62aabb13-42c0-4f2c-ab4a-8d5aaf64d3c2",
+            "loan_number": "ML-20261005204729250-5B9CFF",
+            "borrower_id": "9e3528b6-1d66-4d88-ba56-1547abd6db31",
+            "principal_minor": 30000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 5000,
+            "frequency": "Monthly",
+            "disbursement_date": "2026-10-05",
+            "maturity_date": "2026-11-04",
+            "status": "Active",
+            "created_at": "2026-10-05T20:47:29.24332+00:00",
+            "approved_at": "2026-10-05T20:48:12.421923+00:00",
+            "updated_at": "2026-10-05T20:48:12.421923+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-04"
+        },
+        {
+            "id": "3cab8f51-cfb6-458d-bccd-ef46879aed60",
+            "loan_number": "ML-20261006095228334-2CA930",
+            "borrower_id": "96499d72-ca41-435f-b66c-beaa97cf4acb",
+            "principal_minor": 10000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 5000,
+            "frequency": "Monthly",
+            "disbursement_date": "2026-10-06",
+            "maturity_date": "2026-11-02",
+            "status": "Active",
+            "created_at": "2026-10-06T09:52:28.307681+00:00",
+            "approved_at": "2026-10-06T09:52:42.834156+00:00",
+            "updated_at": "2026-10-06T09:52:42.834156+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-04"
+        },
+        {
+            "id": "ee9f5a5a-44ec-4d63-a9b7-126761cac90e",
+            "loan_number": "ML-20261008154413244-363C35",
+            "borrower_id": "9d346ee6-1fc7-4ee8-bbaa-af61bdccdc10",
+            "principal_minor": 10000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 5000,
+            "frequency": "Monthly",
+            "disbursement_date": "2026-10-08",
+            "maturity_date": "2026-11-08",
+            "status": "Active",
+            "created_at": "2026-10-08T15:44:13.177511+00:00",
+            "approved_at": "2026-10-08T15:44:24.597068+00:00",
+            "updated_at": "2026-10-08T15:44:24.597068+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-08"
+        },
+        {
+            "id": "0a11e0ea-089f-4e58-b6db-f4f23d554e71",
+            "loan_number": "ML-20261008154754232-1785BE",
+            "borrower_id": "d98b0057-4616-480e-a7dc-a8b2201e8787",
+            "principal_minor": 7000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 6000,
+            "frequency": "Monthly",
+            "disbursement_date": "2026-10-08",
+            "maturity_date": "2026-11-05",
+            "status": "Active",
+            "created_at": "2026-10-08T15:47:54.222729+00:00",
+            "approved_at": "2026-10-08T15:48:02.749383+00:00",
+            "updated_at": "2026-10-08T15:48:02.749383+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-05"
+        },
+        {
+            "id": "4c22d856-57bf-4652-97fd-c92625c5118e",
+            "loan_number": "ML-20261008155117699-C8A5BE",
+            "borrower_id": "265e8d2b-a395-4f79-bba6-8baa1c1dab07",
+            "principal_minor": 5000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 5000,
+            "frequency": "Weekly",
+            "disbursement_date": "2026-10-08",
+            "maturity_date": "2026-10-22",
+            "status": "Active",
+            "created_at": "2026-10-08T15:51:17.690137+00:00",
+            "approved_at": "2026-10-08T15:51:25.679968+00:00",
+            "updated_at": "2026-10-08T15:51:25.679968+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-08"
+        },
+        {
+            "id": "5e46d387-d4f2-4720-8038-02446b90bf54",
+            "loan_number": "ML-20261009081532624-CD8E43",
+            "borrower_id": "5300ebe2-a9ac-4881-8348-d2a38d621b29",
+            "principal_minor": 25000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 5000,
+            "frequency": "Monthly",
+            "disbursement_date": "2026-10-09",
+            "maturity_date": "2026-11-09",
+            "status": "Active",
+            "created_at": "2026-10-09T08:15:32.605558+00:00",
+            "approved_at": "2026-10-09T08:15:42.57189+00:00",
+            "updated_at": "2026-10-09T08:15:42.57189+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-09"
+        },
+        {
+            "id": "aac4d0fe-602d-44e0-8c54-ecdfca73b2f0",
+            "loan_number": "ML-20261009121859476-82D379",
+            "borrower_id": "72d2b69a-6bd4-40be-894f-47644ae0dbeb",
+            "principal_minor": 10000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 5000,
+            "frequency": "Monthly",
+            "disbursement_date": "2026-10-09",
+            "maturity_date": "2026-11-09",
+            "status": "Active",
+            "created_at": "2026-10-09T12:18:59.456519+00:00",
+            "approved_at": "2026-10-09T12:19:13.23887+00:00",
+            "updated_at": "2026-10-09T12:19:13.23887+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-09"
+        },
+        {
+            "id": "bd471e1f-62b0-42b5-aad5-d73902015392",
+            "loan_number": "ML-20261010101136140-0F65A8",
+            "borrower_id": "5f73989d-4648-4e34-a7eb-60bbdec25c87",
+            "principal_minor": 40000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 4000,
+            "frequency": "Weekly",
+            "disbursement_date": "2026-10-10",
+            "maturity_date": "2026-10-24",
+            "status": "Active",
+            "created_at": "2026-10-10T10:11:36.118365+00:00",
+            "approved_at": "2026-10-10T10:11:49.280058+00:00",
+            "updated_at": "2026-10-10T10:11:49.280058+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-10"
+        },
+        {
+            "id": "68578f4b-63eb-4b8c-ac8a-fd4037b9a5ce",
+            "loan_number": "ML-20261010104330317-235ECE",
+            "borrower_id": "a414c587-00ea-407f-845a-f126c3cd318e",
+            "principal_minor": 85000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 4000,
+            "frequency": "Lumpsum",
+            "disbursement_date": "2026-10-10",
+            "maturity_date": "2026-10-24",
+            "status": "Active",
+            "created_at": "2026-10-10T10:43:30.302112+00:00",
+            "approved_at": "2026-10-10T10:43:42.469444+00:00",
+            "updated_at": "2026-10-10T10:43:42.469444+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-10"
+        },
+        {
+            "id": "71d2f71f-8924-4d5f-b469-9bbc44a552ee",
+            "loan_number": "ML-20261012084255385-325C48",
+            "borrower_id": "11410e65-3286-4ef4-8088-d736242a6dca",
+            "principal_minor": 10000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 6000,
+            "frequency": "Monthly",
+            "disbursement_date": "2026-10-12",
+            "maturity_date": "2026-11-11",
+            "status": "Active",
+            "created_at": "2026-10-12T08:42:55.365767+00:00",
+            "approved_at": "2026-10-12T08:43:09.874042+00:00",
+            "updated_at": "2026-10-12T08:43:09.874042+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-11"
+        },
+        {
+            "id": "79254073-8413-4cd4-91dd-8825c5581360",
+            "loan_number": "ML-20261014083619051-315F4A",
+            "borrower_id": "4aa82185-1889-4780-946d-3d9e8e9e40fc",
+            "principal_minor": 250000000,
+            "currency": "MWK",
+            "interest_type": "fixed",
+            "interest_rate_bps": 4000,
+            "frequency": "Monthly",
+            "disbursement_date": "2026-10-14",
+            "maturity_date": "2026-11-14",
+            "status": "Active",
+            "created_at": "2026-10-14T08:36:19.019101+00:00",
+            "approved_at": "2026-10-14T08:36:36.765923+00:00",
+            "updated_at": "2026-10-14T08:36:36.765923+00:00",
+            "rejection_reason": null,
+            "start_date": "2026-10-14"
+        }
+    ],
+    "loan_schedules": [
+        {
+            "id": "deb9ba8d-f8d6-49ca-b883-b042d7b2792c",
+            "loan_id": "4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "installment_no": 1,
+            "due_date": "2026-10-14",
+            "principal_due_minor": 5000000,
+            "interest_due_minor": 1250000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 5000000,
+            "interest_paid_minor": 1250000,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "7054039a-56c7-4fa5-af77-df11a88fc19f",
+            "loan_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "installment_no": 1,
+            "due_date": "2026-10-14",
+            "principal_due_minor": 10000000,
+            "interest_due_minor": 5000000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 10000000,
+            "interest_paid_minor": 5000000,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "a4409534-a97a-417b-9bc1-d75745ffdc0f",
+            "loan_id": "ed2c8de8-7cdf-4e6c-a21c-e8433b8cf1fd",
+            "installment_no": 1,
+            "due_date": "2026-11-04",
+            "principal_due_minor": 15,
+            "interest_due_minor": 8,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "ddbdbd40-d628-4333-b9f7-126459aa08d3",
+            "loan_id": "62aabb13-42c0-4f2c-ab4a-8d5aaf64d3c2",
+            "installment_no": 1,
+            "due_date": "2026-11-04",
+            "principal_due_minor": 30000000,
+            "interest_due_minor": 15000000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "987e8d37-feb9-4c6d-8cb6-a21457183748",
+            "loan_id": "3cab8f51-cfb6-458d-bccd-ef46879aed60",
+            "installment_no": 1,
+            "due_date": "2026-11-02",
+            "principal_due_minor": 10000000,
+            "interest_due_minor": 5000000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "57d93e3b-bce6-4fca-bb02-17d2d24b084e",
+            "loan_id": "ee9f5a5a-44ec-4d63-a9b7-126761cac90e",
+            "installment_no": 1,
+            "due_date": "2026-11-08",
+            "principal_due_minor": 10000000,
+            "interest_due_minor": 5000000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "b89cc373-fb6e-4a5a-8ad2-17f5eb3c153f",
+            "loan_id": "0a11e0ea-089f-4e58-b6db-f4f23d554e71",
+            "installment_no": 1,
+            "due_date": "2026-11-05",
+            "principal_due_minor": 7000000,
+            "interest_due_minor": 4200000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "c973139d-5245-4156-92c5-3c378aab5f6e",
+            "loan_id": "4c22d856-57bf-4652-97fd-c92625c5118e",
+            "installment_no": 1,
+            "due_date": "2026-10-15",
+            "principal_due_minor": 2500000,
+            "interest_due_minor": 1250000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "87d6b227-1e65-49ea-bbe7-08e0b9b27b32",
+            "loan_id": "4c22d856-57bf-4652-97fd-c92625c5118e",
+            "installment_no": 2,
+            "due_date": "2026-10-22",
+            "principal_due_minor": 2500000,
+            "interest_due_minor": 1250000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "fbe110ea-7e0a-4532-8a93-92932688392d",
+            "loan_id": "5e46d387-d4f2-4720-8038-02446b90bf54",
+            "installment_no": 1,
+            "due_date": "2026-11-09",
+            "principal_due_minor": 25000000,
+            "interest_due_minor": 12500000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "cf33e355-6d18-40df-a3b1-e201a4ea8b89",
+            "loan_id": "aac4d0fe-602d-44e0-8c54-ecdfca73b2f0",
+            "installment_no": 1,
+            "due_date": "2026-11-09",
+            "principal_due_minor": 10000000,
+            "interest_due_minor": 5000000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "d21e98fd-8a32-4d8e-bae8-ca27574b614d",
+            "loan_id": "bd471e1f-62b0-42b5-aad5-d73902015392",
+            "installment_no": 1,
+            "due_date": "2026-10-17",
+            "principal_due_minor": 20000000,
+            "interest_due_minor": 8000000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "9d1ec231-36b1-4092-9521-ea7626e312bb",
+            "loan_id": "bd471e1f-62b0-42b5-aad5-d73902015392",
+            "installment_no": 2,
+            "due_date": "2026-10-24",
+            "principal_due_minor": 20000000,
+            "interest_due_minor": 8000000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "cfc9c216-d037-4100-b00e-881c77427923",
+            "loan_id": "68578f4b-63eb-4b8c-ac8a-fd4037b9a5ce",
+            "installment_no": 1,
+            "due_date": "2026-10-24",
+            "principal_due_minor": 85000000,
+            "interest_due_minor": 34000000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "5686bab5-74e8-43c8-921f-b7e8a84a1936",
+            "loan_id": "71d2f71f-8924-4d5f-b469-9bbc44a552ee",
+            "installment_no": 1,
+            "due_date": "2026-11-11",
+            "principal_due_minor": 10000000,
+            "interest_due_minor": 6000000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        },
+        {
+            "id": "82d5715e-a2b7-403d-bff2-b28bb18936e1",
+            "loan_id": "79254073-8413-4cd4-91dd-8825c5581360",
+            "installment_no": 1,
+            "due_date": "2026-11-14",
+            "principal_due_minor": 250000000,
+            "interest_due_minor": 100000000,
+            "fee_due_minor": 0,
+            "penalty_due_minor": 0,
+            "principal_paid_minor": 0,
+            "interest_paid_minor": 0,
+            "fee_paid_minor": 0,
+            "penalty_paid_minor": 0
+        }
+    ],
+    "penalty_rules": [
+        {
+            "id": "655d37b7-88a5-448d-8074-585652cea2cb",
+            "name": "marklend",
+            "grace_days": 3,
+            "flat_rate_bps": 300,
+            "daily_rate_bps": 500,
+            "cap_principal_bps": 200,
+            "active": true
+        }
+    ],
+    "ledger_entries": [
+        {
+            "id": "64179797-b66a-4922-9d08-b0969f63ca1a",
+            "created_at": "2026-10-01T06:54:26.644747+00:00",
+            "entry_type": "CAPITAL_FUNDING",
+            "reference": "Bank",
+            "loan_id": null,
+            "borrower_id": null,
+            "debit_account": "CASH",
+            "credit_account": "OWNER_CAPITAL",
+            "amount_minor": 200000000,
+            "currency": "MWK",
+            "idempotency_key": "capital-Bank",
+            "metadata": {
+                "source": "Owner Injection"
+            }
+        },
+        {
+            "id": "e44fb0da-eccb-46a8-a7a9-10e192ef890c",
+            "created_at": "2026-10-01T06:54:45.572055+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "loan_id": "4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "borrower_id": "32ba29ba-d82f-4f72-bce2-1eef34fbbdca",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 5000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "metadata": {
+                "loan_number": "ML-20261001065335065-C49D74"
+            }
+        },
+        {
+            "id": "806421d0-37d0-405f-9341-e2ed05027a9c",
+            "created_at": "2026-10-01T06:54:51.358498+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "loan_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "borrower_id": "32ba29ba-d82f-4f72-bce2-1eef34fbbdca",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 10000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "metadata": {
+                "loan_number": "ML-20260930084933621-027621"
+            }
+        },
+        {
+            "id": "6b5b80df-894c-4ee3-a850-1295482053fb",
+            "created_at": "2026-10-01T06:57:00.280478+00:00",
+            "entry_type": "REPAYMENT",
+            "reference": "d12d2e78-b249-482c-bbb7-e621352be505",
+            "loan_id": "4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "borrower_id": "32ba29ba-d82f-4f72-bce2-1eef34fbbdca",
+            "debit_account": "CASH",
+            "credit_account": "LOAN_RECEIVABLE",
+            "amount_minor": 7500000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-d12d2e78-b249-482c-bbb7-e621352be505",
+            "metadata": {
+                "fee": 0,
+                "penalty": 0,
+                "interest": 1250000,
+                "principal": 5000000
+            }
+        },
+        {
+            "id": "eee0452f-740d-4f99-9f4f-bc7d4e3da4ae",
+            "created_at": "2026-10-02T07:15:37.902893+00:00",
+            "entry_type": "REPAYMENT",
+            "reference": "936c91db-5abc-473f-b8e4-b6ed2e6c0043",
+            "loan_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "borrower_id": "32ba29ba-d82f-4f72-bce2-1eef34fbbdca",
+            "debit_account": "CASH",
+            "credit_account": "LOAN_RECEIVABLE",
+            "amount_minor": 6700000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-936c91db-5abc-473f-b8e4-b6ed2e6c0043",
+            "metadata": {
+                "fee": 0,
+                "penalty": 0,
+                "interest": 5000000,
+                "principal": 1700000
+            }
+        },
+        {
+            "id": "93cedcd0-cb2c-4d3d-8366-8a8cff830c72",
+            "created_at": "2026-10-02T07:18:43.951709+00:00",
+            "entry_type": "REPAYMENT",
+            "reference": "95342dc0-b9b1-440d-af2d-a47cff8bd9be",
+            "loan_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "borrower_id": "32ba29ba-d82f-4f72-bce2-1eef34fbbdca",
+            "debit_account": "CASH",
+            "credit_account": "LOAN_RECEIVABLE",
+            "amount_minor": 8300000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-95342dc0-b9b1-440d-af2d-a47cff8bd9be",
+            "metadata": {
+                "fee": 0,
+                "penalty": 0,
+                "interest": 0,
+                "principal": 8300000
+            }
+        },
+        {
+            "id": "f0bf07c4-0527-42e0-8033-8652a87ae427",
+            "created_at": "2026-10-05T20:48:12.421923+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-62aabb13-42c0-4f2c-ab4a-8d5aaf64d3c2",
+            "loan_id": "62aabb13-42c0-4f2c-ab4a-8d5aaf64d3c2",
+            "borrower_id": "9e3528b6-1d66-4d88-ba56-1547abd6db31",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 30000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-62aabb13-42c0-4f2c-ab4a-8d5aaf64d3c2",
+            "metadata": {
+                "loan_number": "ML-20261005204729250-5B9CFF"
+            }
+        },
+        {
+            "id": "0357c979-e643-4363-936a-c257410cef34",
+            "created_at": "2026-10-06T09:47:51.988467+00:00",
+            "entry_type": "CAPITAL_FUNDING",
+            "reference": "2356790",
+            "loan_id": null,
+            "borrower_id": null,
+            "debit_account": "CASH",
+            "credit_account": "OWNER_CAPITAL",
+            "amount_minor": 200000000,
+            "currency": "MWK",
+            "idempotency_key": "capital-2356790",
+            "metadata": {
+                "source": "bank"
+            }
+        },
+        {
+            "id": "0a4269f5-2dd0-41a4-91a2-d71fe69529f9",
+            "created_at": "2026-10-06T09:52:42.834156+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-3cab8f51-cfb6-458d-bccd-ef46879aed60",
+            "loan_id": "3cab8f51-cfb6-458d-bccd-ef46879aed60",
+            "borrower_id": "96499d72-ca41-435f-b66c-beaa97cf4acb",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 10000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-3cab8f51-cfb6-458d-bccd-ef46879aed60",
+            "metadata": {
+                "loan_number": "ML-20261006095228334-2CA930"
+            }
+        },
+        {
+            "id": "ee9b3eb7-a280-4355-9998-21a50d5e6898",
+            "created_at": "2026-10-08T15:44:24.597068+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-ee9f5a5a-44ec-4d63-a9b7-126761cac90e",
+            "loan_id": "ee9f5a5a-44ec-4d63-a9b7-126761cac90e",
+            "borrower_id": "9d346ee6-1fc7-4ee8-bbaa-af61bdccdc10",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 10000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-ee9f5a5a-44ec-4d63-a9b7-126761cac90e",
+            "metadata": {
+                "loan_number": "ML-20261008154413244-363C35"
+            }
+        },
+        {
+            "id": "e9953328-48d6-47c5-81ba-7b82f9591e9f",
+            "created_at": "2026-10-08T15:48:02.749383+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-0a11e0ea-089f-4e58-b6db-f4f23d554e71",
+            "loan_id": "0a11e0ea-089f-4e58-b6db-f4f23d554e71",
+            "borrower_id": "d98b0057-4616-480e-a7dc-a8b2201e8787",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 7000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-0a11e0ea-089f-4e58-b6db-f4f23d554e71",
+            "metadata": {
+                "loan_number": "ML-20261008154754232-1785BE"
+            }
+        },
+        {
+            "id": "11597c15-881b-4add-81c9-81054c4ff3c9",
+            "created_at": "2026-10-08T15:51:25.679968+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-4c22d856-57bf-4652-97fd-c92625c5118e",
+            "loan_id": "4c22d856-57bf-4652-97fd-c92625c5118e",
+            "borrower_id": "265e8d2b-a395-4f79-bba6-8baa1c1dab07",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 5000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-4c22d856-57bf-4652-97fd-c92625c5118e",
+            "metadata": {
+                "loan_number": "ML-20261008155117699-C8A5BE"
+            }
+        },
+        {
+            "id": "785225b9-d450-4c1b-933e-1ad805981da4",
+            "created_at": "2026-10-09T08:15:42.57189+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-5e46d387-d4f2-4720-8038-02446b90bf54",
+            "loan_id": "5e46d387-d4f2-4720-8038-02446b90bf54",
+            "borrower_id": "5300ebe2-a9ac-4881-8348-d2a38d621b29",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 25000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-5e46d387-d4f2-4720-8038-02446b90bf54",
+            "metadata": {
+                "loan_number": "ML-20261009081532624-CD8E43"
+            }
+        },
+        {
+            "id": "dad1b623-fedb-46ee-960c-744c3945f525",
+            "created_at": "2026-10-09T12:19:13.23887+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-aac4d0fe-602d-44e0-8c54-ecdfca73b2f0",
+            "loan_id": "aac4d0fe-602d-44e0-8c54-ecdfca73b2f0",
+            "borrower_id": "72d2b69a-6bd4-40be-894f-47644ae0dbeb",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 10000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-aac4d0fe-602d-44e0-8c54-ecdfca73b2f0",
+            "metadata": {
+                "loan_number": "ML-20261009121859476-82D379"
+            }
+        },
+        {
+            "id": "ce5996e1-7a96-47d3-be8f-70dbae5b2f7b",
+            "created_at": "2026-10-10T10:11:49.280058+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-bd471e1f-62b0-42b5-aad5-d73902015392",
+            "loan_id": "bd471e1f-62b0-42b5-aad5-d73902015392",
+            "borrower_id": "5f73989d-4648-4e34-a7eb-60bbdec25c87",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 40000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-bd471e1f-62b0-42b5-aad5-d73902015392",
+            "metadata": {
+                "loan_number": "ML-20261010101136140-0F65A8"
+            }
+        },
+        {
+            "id": "1c1f5ac6-9f94-4995-8716-10083b7d6482",
+            "created_at": "2026-10-10T10:43:42.469444+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-68578f4b-63eb-4b8c-ac8a-fd4037b9a5ce",
+            "loan_id": "68578f4b-63eb-4b8c-ac8a-fd4037b9a5ce",
+            "borrower_id": "a414c587-00ea-407f-845a-f126c3cd318e",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 85000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-68578f4b-63eb-4b8c-ac8a-fd4037b9a5ce",
+            "metadata": {
+                "loan_number": "ML-20261010104330317-235ECE"
+            }
+        },
+        {
+            "id": "43d4872b-0f8d-4f15-9940-f319847238e4",
+            "created_at": "2026-10-12T08:43:09.874042+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-71d2f71f-8924-4d5f-b469-9bbc44a552ee",
+            "loan_id": "71d2f71f-8924-4d5f-b469-9bbc44a552ee",
+            "borrower_id": "11410e65-3286-4ef4-8088-d736242a6dca",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 10000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-71d2f71f-8924-4d5f-b469-9bbc44a552ee",
+            "metadata": {
+                "loan_number": "ML-20261012084255385-325C48"
+            }
+        },
+        {
+            "id": "fa269d75-1342-4b96-a37d-e1944ac64086",
+            "created_at": "2026-10-13T17:34:13.533726+00:00",
+            "entry_type": "CAPITAL_FUNDING",
+            "reference": "nk009j",
+            "loan_id": null,
+            "borrower_id": null,
+            "debit_account": "CASH",
+            "credit_account": "OWNER_CAPITAL",
+            "amount_minor": 100000000,
+            "currency": "MWK",
+            "idempotency_key": "capital-nk009j",
+            "metadata": {
+                "source": "bank"
+            }
+        },
+        {
+            "id": "8bddd185-389f-49db-9369-c1fcb39b0455",
+            "created_at": "2026-10-14T08:36:36.765923+00:00",
+            "entry_type": "DISBURSEMENT",
+            "reference": "DISB-79254073-8413-4cd4-91dd-8825c5581360",
+            "loan_id": "79254073-8413-4cd4-91dd-8825c5581360",
+            "borrower_id": "4aa82185-1889-4780-946d-3d9e8e9e40fc",
+            "debit_account": "LOAN_RECEIVABLE",
+            "credit_account": "CASH",
+            "amount_minor": 250000000,
+            "currency": "MWK",
+            "idempotency_key": "ledger-DISB-79254073-8413-4cd4-91dd-8825c5581360",
+            "metadata": {
+                "loan_number": "ML-20261014083619051-315F4A"
+            }
+        }
+    ],
+    "repayments": [
+        {
+            "id": "30ce660a-6a90-4e5c-b446-3c1cce52bb28",
+            "loan_id": "4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "payment_date": "2026-10-01",
+            "amount_minor": 7500000,
+            "fee_component_minor": 0,
+            "penalty_component_minor": 0,
+            "interest_component_minor": 1250000,
+            "principal_component_minor": 5000000,
+            "currency": "MWK",
+            "idempotency_key": "d12d2e78-b249-482c-bbb7-e621352be505",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "created_at": "2026-10-01T06:57:00.280478+00:00"
+        },
+        {
+            "id": "b12a67cf-8a37-4077-b0fc-0402ecf2d21b",
+            "loan_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "payment_date": "2026-10-02",
+            "amount_minor": 6700000,
+            "fee_component_minor": 0,
+            "penalty_component_minor": 0,
+            "interest_component_minor": 5000000,
+            "principal_component_minor": 1700000,
+            "currency": "MWK",
+            "idempotency_key": "936c91db-5abc-473f-b8e4-b6ed2e6c0043",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "created_at": "2026-10-02T07:15:37.902893+00:00"
+        },
+        {
+            "id": "a7efecd3-78e5-418f-9073-898606cc7ef3",
+            "loan_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "payment_date": "2026-10-02",
+            "amount_minor": 8300000,
+            "fee_component_minor": 0,
+            "penalty_component_minor": 0,
+            "interest_component_minor": 0,
+            "principal_component_minor": 8300000,
+            "currency": "MWK",
+            "idempotency_key": "95342dc0-b9b1-440d-af2d-a47cff8bd9be",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "created_at": "2026-10-02T07:18:43.951709+00:00"
+        }
+    ],
+    "capital_transactions": [
+        {
+            "id": "36234807-419c-4a1e-978e-7a0e98beae63",
+            "created_at": "2026-10-01T06:54:26.644747+00:00",
+            "transaction_type": "FUNDING",
+            "amount_minor": 200000000,
+            "currency": "MWK",
+            "reference": "Bank",
+            "source": "Owner Injection",
+            "loan_id": null,
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "5bd6a6fc-40e6-44e1-8c26-76ef4e89df39",
+            "created_at": "2026-10-01T06:54:45.572055+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 5000000,
+            "currency": "MWK",
+            "reference": "DISB-4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "source": "Loan disbursement",
+            "loan_id": "4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "dde2b30f-ab8a-454e-ac9a-973f4ae23eaf",
+            "created_at": "2026-10-01T06:54:51.358498+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 10000000,
+            "currency": "MWK",
+            "reference": "DISB-18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "source": "Loan disbursement",
+            "loan_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "fa280ec4-3554-4365-9da9-2fac0d43768e",
+            "created_at": "2026-10-01T06:57:00.280478+00:00",
+            "transaction_type": "REPAYMENT",
+            "amount_minor": 5000000,
+            "currency": "MWK",
+            "reference": "REPAY-d12d2e78-b249-482c-bbb7-e621352be505",
+            "source": "Principal repayment",
+            "loan_id": "4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "1f18aa55-746b-431a-b9a5-35ca0b90f683",
+            "created_at": "2026-10-02T07:15:37.902893+00:00",
+            "transaction_type": "REPAYMENT",
+            "amount_minor": 1700000,
+            "currency": "MWK",
+            "reference": "REPAY-936c91db-5abc-473f-b8e4-b6ed2e6c0043",
+            "source": "Principal repayment",
+            "loan_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "78645593-881f-4eca-8345-56f6c1261372",
+            "created_at": "2026-10-02T07:18:43.951709+00:00",
+            "transaction_type": "REPAYMENT",
+            "amount_minor": 8300000,
+            "currency": "MWK",
+            "reference": "REPAY-95342dc0-b9b1-440d-af2d-a47cff8bd9be",
+            "source": "Principal repayment",
+            "loan_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "270ff7e2-eed6-4bbf-ae06-4f5608bd085c",
+            "created_at": "2026-10-05T20:48:12.421923+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 30000000,
+            "currency": "MWK",
+            "reference": "DISB-62aabb13-42c0-4f2c-ab4a-8d5aaf64d3c2",
+            "source": "Loan disbursement",
+            "loan_id": "62aabb13-42c0-4f2c-ab4a-8d5aaf64d3c2",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "e9f1d5df-b3a1-4d02-867b-1b4537b707e1",
+            "created_at": "2026-10-06T09:47:51.988467+00:00",
+            "transaction_type": "FUNDING",
+            "amount_minor": 200000000,
+            "currency": "MWK",
+            "reference": "2356790",
+            "source": "bank",
+            "loan_id": null,
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "f1934b47-4e12-4bd5-b337-48a9af23d23c",
+            "created_at": "2026-10-06T09:52:42.834156+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 10000000,
+            "currency": "MWK",
+            "reference": "DISB-3cab8f51-cfb6-458d-bccd-ef46879aed60",
+            "source": "Loan disbursement",
+            "loan_id": "3cab8f51-cfb6-458d-bccd-ef46879aed60",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "246a6759-0fa8-4df6-baee-d3472d109f68",
+            "created_at": "2026-10-08T15:44:24.597068+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 10000000,
+            "currency": "MWK",
+            "reference": "DISB-ee9f5a5a-44ec-4d63-a9b7-126761cac90e",
+            "source": "Loan disbursement",
+            "loan_id": "ee9f5a5a-44ec-4d63-a9b7-126761cac90e",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "f9d38c52-614b-46ff-9b3b-154c90e48cd4",
+            "created_at": "2026-10-08T15:48:02.749383+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 7000000,
+            "currency": "MWK",
+            "reference": "DISB-0a11e0ea-089f-4e58-b6db-f4f23d554e71",
+            "source": "Loan disbursement",
+            "loan_id": "0a11e0ea-089f-4e58-b6db-f4f23d554e71",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "516e4de4-a1dc-43ab-9a80-707c47ab02d1",
+            "created_at": "2026-10-08T15:51:25.679968+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 5000000,
+            "currency": "MWK",
+            "reference": "DISB-4c22d856-57bf-4652-97fd-c92625c5118e",
+            "source": "Loan disbursement",
+            "loan_id": "4c22d856-57bf-4652-97fd-c92625c5118e",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "169be17f-09cf-45f2-8094-73704e921311",
+            "created_at": "2026-10-09T08:15:42.57189+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 25000000,
+            "currency": "MWK",
+            "reference": "DISB-5e46d387-d4f2-4720-8038-02446b90bf54",
+            "source": "Loan disbursement",
+            "loan_id": "5e46d387-d4f2-4720-8038-02446b90bf54",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "b1b35bf9-8b28-4caa-97fa-bb486125a66e",
+            "created_at": "2026-10-09T12:19:13.23887+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 10000000,
+            "currency": "MWK",
+            "reference": "DISB-aac4d0fe-602d-44e0-8c54-ecdfca73b2f0",
+            "source": "Loan disbursement",
+            "loan_id": "aac4d0fe-602d-44e0-8c54-ecdfca73b2f0",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "20c0ef9c-8ffc-4612-8c40-54e650e82b69",
+            "created_at": "2026-10-10T10:11:49.280058+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 40000000,
+            "currency": "MWK",
+            "reference": "DISB-bd471e1f-62b0-42b5-aad5-d73902015392",
+            "source": "Loan disbursement",
+            "loan_id": "bd471e1f-62b0-42b5-aad5-d73902015392",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "11ca7666-5395-433b-a384-1fcb52a4e57b",
+            "created_at": "2026-10-10T10:43:42.469444+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 85000000,
+            "currency": "MWK",
+            "reference": "DISB-68578f4b-63eb-4b8c-ac8a-fd4037b9a5ce",
+            "source": "Loan disbursement",
+            "loan_id": "68578f4b-63eb-4b8c-ac8a-fd4037b9a5ce",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "1a293cb4-441c-4420-a0df-3fd404c5732b",
+            "created_at": "2026-10-12T08:43:09.874042+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 10000000,
+            "currency": "MWK",
+            "reference": "DISB-71d2f71f-8924-4d5f-b469-9bbc44a552ee",
+            "source": "Loan disbursement",
+            "loan_id": "71d2f71f-8924-4d5f-b469-9bbc44a552ee",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "f4134d9c-a215-4708-b8e1-978fe248860f",
+            "created_at": "2026-10-13T17:34:13.533726+00:00",
+            "transaction_type": "FUNDING",
+            "amount_minor": 100000000,
+            "currency": "MWK",
+            "reference": "nk009j",
+            "source": "bank",
+            "loan_id": null,
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        },
+        {
+            "id": "4ff53a29-e205-4d0e-b483-2cee1ec9a56f",
+            "created_at": "2026-10-14T08:36:36.765923+00:00",
+            "transaction_type": "DISBURSEMENT",
+            "amount_minor": 250000000,
+            "currency": "MWK",
+            "reference": "DISB-79254073-8413-4cd4-91dd-8825c5581360",
+            "source": "Loan disbursement",
+            "loan_id": "79254073-8413-4cd4-91dd-8825c5581360",
+            "created_by": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "metadata": {}
+        }
+    ],
+    "audit_logs": [
+        {
+            "id": "73f9a02e-4666-42a4-b2f6-1d8ee1cc0b89",
+            "created_at": "2026-09-30T08:49:33.609146+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "details": {
+                "loan_number": "ML-20260930084933621-027621",
+                "principal_minor": 10000000
+            }
+        },
+        {
+            "id": "6ca27d59-a444-4723-98bd-06f91edbc57d",
+            "created_at": "2026-09-30T14:48:37.009582+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_IN",
+            "entity_type": "authentication",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "remember_session": true
+            }
+        },
+        {
+            "id": "ba1e49a5-3024-47ec-a9cc-411b197a0699",
+            "created_at": "2026-09-30T14:50:39.252808+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_OUT",
+            "entity_type": "authentication",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "8ec287b7-b37e-40f6-b8b8-2ddfcaac6fee",
+            "created_at": "2026-10-01T05:38:52.23687+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_IN",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "remember_session": true
+            }
+        },
+        {
+            "id": "b1508b6c-16cc-4fab-a0d6-6c2427664f70",
+            "created_at": "2026-10-01T06:09:30.202576+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SESSION_LOCK",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "idle_timeout_minutes": 30
+            }
+        },
+        {
+            "id": "fa117987-80cd-4acd-85ac-8649d2fea520",
+            "created_at": "2026-10-01T06:21:51.927258+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SESSION_UNLOCK",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "5dde1819-4018-4055-b547-77b1873e9815",
+            "created_at": "2026-10-01T06:53:35.035404+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261001065335065-C49D74",
+                "principal_minor": 5000000
+            }
+        },
+        {
+            "id": "8f6262cf-0996-4007-8217-64c797576b28",
+            "created_at": "2026-10-01T06:54:26.644747+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CAPITAL_FUNDING",
+            "entity_type": "capital",
+            "entity_id": "36234807-419c-4a1e-978e-7a0e98beae63",
+            "details": {
+                "currency": "MWK",
+                "reference": "Bank",
+                "amount_minor": 200000000
+            }
+        },
+        {
+            "id": "d9f1c1c1-2b11-495c-b182-e5e88e76240e",
+            "created_at": "2026-10-01T06:54:45.572055+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261001065335065-C49D74",
+                "principal_minor": 5000000
+            }
+        },
+        {
+            "id": "d16e945c-39a5-497e-86ce-ce2408ac79a4",
+            "created_at": "2026-10-01T06:54:51.358498+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20260930084933621-027621",
+                "principal_minor": 10000000
+            }
+        },
+        {
+            "id": "088ffb39-4f17-44cc-9fbc-d64de737c9f0",
+            "created_at": "2026-10-01T06:57:00.280478+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "POST_REPAYMENT",
+            "entity_type": "loan",
+            "entity_id": "4aaa65ca-adb2-482a-b00d-5be2de88fd94",
+            "details": {
+                "fee": 0,
+                "penalty": 0,
+                "interest": 1250000,
+                "principal": 5000000,
+                "amount_minor": 7500000,
+                "idempotency_key": "d12d2e78-b249-482c-bbb7-e621352be505"
+            }
+        },
+        {
+            "id": "cd5db842-70e6-4996-b14b-b06bc14dd8f8",
+            "created_at": "2026-10-01T06:57:53.701176+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_OUT",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "7d416201-d5c3-41b2-bd1b-d029d5245fba",
+            "created_at": "2026-10-01T07:18:33.524782+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_IN",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "remember_session": true
+            }
+        },
+        {
+            "id": "684a9869-d7cd-481d-a3e3-8550195f110c",
+            "created_at": "2026-10-01T07:20:14.44889+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "UPDATE_AVATAR",
+            "entity_type": "profile",
+            "entity_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "details": {
+                "avatar": "adm-shield"
+            }
+        },
+        {
+            "id": "ee20d4d4-ecc3-4bd9-8b92-f999bbe94f03",
+            "created_at": "2026-10-02T07:07:29.080854+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_OUT",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "24d162a5-4282-4e5b-9ceb-c52f26c2ae74",
+            "created_at": "2026-10-02T07:08:50.167689+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_IN",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "remember_session": true
+            }
+        },
+        {
+            "id": "0c7a3d3a-a75b-46f5-9b86-8660639bd3ea",
+            "created_at": "2026-10-02T07:15:37.902893+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "POST_REPAYMENT",
+            "entity_type": "loan",
+            "entity_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "details": {
+                "fee": 0,
+                "penalty": 0,
+                "interest": 5000000,
+                "principal": 1700000,
+                "amount_minor": 6700000,
+                "idempotency_key": "936c91db-5abc-473f-b8e4-b6ed2e6c0043"
+            }
+        },
+        {
+            "id": "45ac0d2d-ed69-4e59-996f-9768ee3389ec",
+            "created_at": "2026-10-02T07:18:43.951709+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "POST_REPAYMENT",
+            "entity_type": "loan",
+            "entity_id": "18e6749c-2951-4fbd-85e1-5c382d47014f",
+            "details": {
+                "fee": 0,
+                "penalty": 0,
+                "interest": 0,
+                "principal": 8300000,
+                "amount_minor": 8300000,
+                "idempotency_key": "95342dc0-b9b1-440d-af2d-a47cff8bd9be"
+            }
+        },
+        {
+            "id": "70031a24-987a-494c-af45-6c772ccc7b26",
+            "created_at": "2026-10-02T07:59:53.056454+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SESSION_LOCK",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "idle_timeout_minutes": 30
+            }
+        },
+        {
+            "id": "15467173-231d-481f-bc9d-0eb4d3976331",
+            "created_at": "2026-10-02T08:02:24.176474+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_OUT",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "8e87637d-13af-44ab-8684-83f0e0a4dc69",
+            "created_at": "2026-10-02T09:39:15.370947+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_IN",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "remember_session": true
+            }
+        },
+        {
+            "id": "108b71e8-bc11-49c8-9871-5428140ca662",
+            "created_at": "2026-10-02T09:43:47.290984+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_OUT",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "834c1327-8353-4354-9883-93c8699a9232",
+            "created_at": "2026-10-02T09:44:10.45906+00:00",
+            "actor_id": "4fb584c8-7ce2-4730-92cf-38a6bd8b4e86",
+            "action": "SIGN_IN",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "remember_session": true
+            }
+        },
+        {
+            "id": "a4b88b65-1652-4552-ba15-3643abea0076",
+            "created_at": "2026-10-02T09:47:25.071768+00:00",
+            "actor_id": "4fb584c8-7ce2-4730-92cf-38a6bd8b4e86",
+            "action": "SIGN_OUT",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "22b59c61-a924-4701-bd09-f5adb9025227",
+            "created_at": "2026-10-05T15:42:55.264407+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_IN",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "remember_session": true
+            }
+        },
+        {
+            "id": "154e1b39-172a-4d2b-be50-c111c8740467",
+            "created_at": "2026-10-05T20:37:20.196111+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_IN",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "remember_session": true
+            }
+        },
+        {
+            "id": "d022e6fd-1bac-46f5-a9fa-91f5b6c4a8ab",
+            "created_at": "2026-10-05T20:41:32.428906+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "UPDATE_AVATAR",
+            "entity_type": "profile",
+            "entity_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "details": {
+                "avatar": "adm-key"
+            }
+        },
+        {
+            "id": "a29e5f75-4afd-4fd4-acc6-d79ce18d7c70",
+            "created_at": "2026-10-05T20:41:45.382977+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "UPDATE_AVATAR",
+            "entity_type": "profile",
+            "entity_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "details": {
+                "avatar": "adm-crown"
+            }
+        },
+        {
+            "id": "db9e6a16-4cf1-41d8-9c92-5e1f677ad7c6",
+            "created_at": "2026-10-05T20:41:47.778194+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "UPDATE_AVATAR",
+            "entity_type": "profile",
+            "entity_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "details": {
+                "avatar": "adm-shield"
+            }
+        },
+        {
+            "id": "25fbfd73-7b19-408d-be65-1acec1e83898",
+            "created_at": "2026-10-05T20:41:49.950462+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "UPDATE_AVATAR",
+            "entity_type": "profile",
+            "entity_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "details": {
+                "avatar": "adm-eagle"
+            }
+        },
+        {
+            "id": "b17f90a7-3943-47aa-b3cc-ad09a402c429",
+            "created_at": "2026-10-05T20:45:07.964749+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "ed2c8de8-7cdf-4e6c-a21c-e8433b8cf1fd",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261005204507989-09F611",
+                "principal_minor": 15
+            }
+        },
+        {
+            "id": "6a9ef172-3ace-4f64-9632-71a8c0370c84",
+            "created_at": "2026-10-05T20:46:36.383953+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "REJECT",
+            "entity_type": "loan",
+            "entity_id": "ed2c8de8-7cdf-4e6c-a21c-e8433b8cf1fd",
+            "details": {
+                "reason": "fail to pay on time",
+                "loan_number": "ML-20261005204507989-09F611"
+            }
+        },
+        {
+            "id": "20058c79-ab5c-4ad2-b278-a9edc804e4dc",
+            "created_at": "2026-10-05T20:47:29.24332+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "62aabb13-42c0-4f2c-ab4a-8d5aaf64d3c2",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261005204729250-5B9CFF",
+                "principal_minor": 30000000
+            }
+        },
+        {
+            "id": "668c5af8-5ea2-4bbe-a1c1-c1258926e9c1",
+            "created_at": "2026-10-05T20:48:12.421923+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "62aabb13-42c0-4f2c-ab4a-8d5aaf64d3c2",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261005204729250-5B9CFF",
+                "principal_minor": 30000000
+            }
+        },
+        {
+            "id": "5903ecb7-fa5b-4090-8715-795225126f50",
+            "created_at": "2026-10-05T20:48:54.650846+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "UPDATE_AVATAR",
+            "entity_type": "profile",
+            "entity_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "details": {
+                "avatar": "adm-key"
+            }
+        },
+        {
+            "id": "6dffc1aa-bb9b-4ada-b9e9-cf1141df071d",
+            "created_at": "2026-10-05T20:50:13.029355+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_OUT",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "59aac3db-bf75-40b7-b2da-2af5548b7afb",
+            "created_at": "2026-10-05T20:51:29.993641+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_IN",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "remember_session": true
+            }
+        },
+        {
+            "id": "5e87e938-b271-4a82-8c29-477de802f2ad",
+            "created_at": "2026-10-06T09:47:51.988467+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CAPITAL_FUNDING",
+            "entity_type": "capital",
+            "entity_id": "e9f1d5df-b3a1-4d02-867b-1b4537b707e1",
+            "details": {
+                "currency": "MWK",
+                "reference": "2356790",
+                "amount_minor": 200000000
+            }
+        },
+        {
+            "id": "0e42cb2d-b2dc-4209-a63b-f15c6eaf808d",
+            "created_at": "2026-10-06T09:52:28.307681+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "3cab8f51-cfb6-458d-bccd-ef46879aed60",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261006095228334-2CA930",
+                "principal_minor": 10000000
+            }
+        },
+        {
+            "id": "b89dff26-8136-4c68-bc8d-9f5f50ba2169",
+            "created_at": "2026-10-06T09:52:42.834156+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "3cab8f51-cfb6-458d-bccd-ef46879aed60",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261006095228334-2CA930",
+                "principal_minor": 10000000
+            }
+        },
+        {
+            "id": "41734190-5c39-4346-893c-30f2355d5f4d",
+            "created_at": "2026-10-07T13:32:26.344944+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SIGN_IN",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "remember_session": true
+            }
+        },
+        {
+            "id": "2c73f16f-4394-48a6-a196-b7711e93a269",
+            "created_at": "2026-10-08T15:44:13.177511+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "ee9f5a5a-44ec-4d63-a9b7-126761cac90e",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261008154413244-363C35",
+                "principal_minor": 10000000
+            }
+        },
+        {
+            "id": "0be27adb-7821-4139-bae1-c212b2650a7e",
+            "created_at": "2026-10-08T15:44:24.597068+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "ee9f5a5a-44ec-4d63-a9b7-126761cac90e",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261008154413244-363C35",
+                "principal_minor": 10000000
+            }
+        },
+        {
+            "id": "e83ac3fd-6fb7-4b84-89de-12fceadb17ff",
+            "created_at": "2026-10-08T15:47:54.222729+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "0a11e0ea-089f-4e58-b6db-f4f23d554e71",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261008154754232-1785BE",
+                "principal_minor": 7000000
+            }
+        },
+        {
+            "id": "8cc1459f-7710-43c0-b036-4fd96092a1ac",
+            "created_at": "2026-10-08T15:48:02.749383+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "0a11e0ea-089f-4e58-b6db-f4f23d554e71",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261008154754232-1785BE",
+                "principal_minor": 7000000
+            }
+        },
+        {
+            "id": "5b524572-6deb-4c4c-a1bc-6d381dbae26a",
+            "created_at": "2026-10-08T15:51:17.690137+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "4c22d856-57bf-4652-97fd-c92625c5118e",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261008155117699-C8A5BE",
+                "principal_minor": 5000000
+            }
+        },
+        {
+            "id": "3a11740e-d972-4e55-bad8-84a20b196217",
+            "created_at": "2026-10-08T15:51:25.679968+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "4c22d856-57bf-4652-97fd-c92625c5118e",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261008155117699-C8A5BE",
+                "principal_minor": 5000000
+            }
+        },
+        {
+            "id": "3fe0c852-b295-42ae-aa33-b6d4d3c9d609",
+            "created_at": "2026-10-09T08:15:32.605558+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "5e46d387-d4f2-4720-8038-02446b90bf54",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261009081532624-CD8E43",
+                "principal_minor": 25000000
+            }
+        },
+        {
+            "id": "f82f1518-596e-4c2a-b976-2dee1e0cc273",
+            "created_at": "2026-10-09T08:15:42.57189+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "5e46d387-d4f2-4720-8038-02446b90bf54",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261009081532624-CD8E43",
+                "principal_minor": 25000000
+            }
+        },
+        {
+            "id": "f6a75ec5-fd11-4951-8244-981bab5e1ea8",
+            "created_at": "2026-10-09T08:47:08.592011+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SESSION_LOCK",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "idle_timeout_minutes": 30
+            }
+        },
+        {
+            "id": "16ead936-5608-4de3-a147-9f04b45d0b6f",
+            "created_at": "2026-10-09T12:18:59.456519+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "aac4d0fe-602d-44e0-8c54-ecdfca73b2f0",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261009121859476-82D379",
+                "principal_minor": 10000000
+            }
+        },
+        {
+            "id": "56aa7f63-d4fe-4727-9e0f-1bf3f84d7fd4",
+            "created_at": "2026-10-09T12:19:13.23887+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "aac4d0fe-602d-44e0-8c54-ecdfca73b2f0",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261009121859476-82D379",
+                "principal_minor": 10000000
+            }
+        },
+        {
+            "id": "f90878a2-986e-4718-834d-05670affe52a",
+            "created_at": "2026-10-09T17:51:09.52686+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SESSION_LOCK",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop",
+                "idle_timeout_minutes": 30
+            }
+        },
+        {
+            "id": "829aea8b-9e93-469d-8153-b98dce331792",
+            "created_at": "2026-10-09T17:51:46.935057+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SESSION_UNLOCK",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "bd659cee-a413-44bb-b4fc-c82d307b6e43",
+            "created_at": "2026-10-09T17:51:52.765428+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SESSION_UNLOCK",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "54000408-cd01-40ea-8abb-e2698bbbccd1",
+            "created_at": "2026-10-09T17:51:53.313417+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "SESSION_UNLOCK",
+            "entity_type": "session",
+            "entity_id": null,
+            "details": {
+                "source": "desktop"
+            }
+        },
+        {
+            "id": "21074493-a29f-4f22-944d-b940726ea194",
+            "created_at": "2026-10-10T10:11:36.118365+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "bd471e1f-62b0-42b5-aad5-d73902015392",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261010101136140-0F65A8",
+                "principal_minor": 40000000
+            }
+        },
+        {
+            "id": "bc69ee5f-f4c0-4d76-ae9d-eb35551b495b",
+            "created_at": "2026-10-10T10:11:49.280058+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "bd471e1f-62b0-42b5-aad5-d73902015392",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261010101136140-0F65A8",
+                "principal_minor": 40000000
+            }
+        },
+        {
+            "id": "9db8e40f-6ffe-4c38-89b6-6fc4c6c8469b",
+            "created_at": "2026-10-10T10:43:30.302112+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "68578f4b-63eb-4b8c-ac8a-fd4037b9a5ce",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261010104330317-235ECE",
+                "principal_minor": 85000000
+            }
+        },
+        {
+            "id": "a8890356-0ddb-4d4e-bd2f-26aed08e5731",
+            "created_at": "2026-10-10T10:43:42.469444+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "68578f4b-63eb-4b8c-ac8a-fd4037b9a5ce",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261010104330317-235ECE",
+                "principal_minor": 85000000
+            }
+        },
+        {
+            "id": "a1d306ee-2e1a-4772-8f4a-cd6dddb755d9",
+            "created_at": "2026-10-10T11:16:54.09882+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPLY_PENALTIES",
+            "entity_type": "penalty_rule",
+            "entity_id": "655d37b7-88a5-448d-8074-585652cea2cb",
+            "details": {
+                "rule": "marklend",
+                "amount_minor": 0,
+                "schedules_updated": 0
+            }
+        },
+        {
+            "id": "97456e1b-1509-493e-b988-c32d96a733c1",
+            "created_at": "2026-10-12T08:42:55.365767+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "71d2f71f-8924-4d5f-b469-9bbc44a552ee",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261012084255385-325C48",
+                "principal_minor": 10000000
+            }
+        },
+        {
+            "id": "7c235901-f0ef-43a6-abf2-d0bd156b2740",
+            "created_at": "2026-10-12T08:43:09.874042+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "71d2f71f-8924-4d5f-b469-9bbc44a552ee",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261012084255385-325C48",
+                "principal_minor": 10000000
+            }
+        },
+        {
+            "id": "82c5d836-6aca-444d-8615-0bb61ee0747c",
+            "created_at": "2026-10-13T17:34:13.533726+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CAPITAL_FUNDING",
+            "entity_type": "capital",
+            "entity_id": "f4134d9c-a215-4708-b8e1-978fe248860f",
+            "details": {
+                "currency": "MWK",
+                "reference": "nk009j",
+                "amount_minor": 100000000
+            }
+        },
+        {
+            "id": "d9ba8e19-24c9-498c-80e2-cecc3727d9d4",
+            "created_at": "2026-10-14T08:36:19.019101+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "CREATE",
+            "entity_type": "loan",
+            "entity_id": "79254073-8413-4cd4-91dd-8825c5581360",
+            "details": {
+                "status": "Pending Approval",
+                "loan_number": "ML-20261014083619051-315F4A",
+                "principal_minor": 250000000
+            }
+        },
+        {
+            "id": "eefa6043-43bd-4307-be53-aff3dd9c76b9",
+            "created_at": "2026-10-14T08:36:36.765923+00:00",
+            "actor_id": "4ff45109-c720-4489-bf90-0e3a3ff819e8",
+            "action": "APPROVE",
+            "entity_type": "loan",
+            "entity_id": "79254073-8413-4cd4-91dd-8825c5581360",
+            "details": {
+                "currency": "MWK",
+                "loan_number": "ML-20261014083619051-315F4A",
+                "principal_minor": 250000000
+            }
+        }
+    ],
+    "staff_permissions": [
+        {
+            "id": "cf22a1a5-7044-4353-a1f4-984c3d707275",
+            "user_id": "4fb584c8-7ce2-4730-92cf-38a6bd8b4e86",
+            "section": "dashboard",
+            "can_view": true,
+            "can_create": false,
+            "can_edit": false,
+            "can_approve": false,
+            "created_at": "2026-10-02T09:43:35.39424+00:00"
+        },
+        {
+            "id": "20569591-a5da-4ecb-bdfb-6da16d0f7215",
+            "user_id": "4fb584c8-7ce2-4730-92cf-38a6bd8b4e86",
+            "section": "borrowers",
+            "can_view": true,
+            "can_create": true,
+            "can_edit": true,
+            "can_approve": false,
+            "created_at": "2026-10-02T09:43:35.39424+00:00"
+        },
+        {
+            "id": "605d28e4-df6a-437f-b8d1-d73318c21bf0",
+            "user_id": "4fb584c8-7ce2-4730-92cf-38a6bd8b4e86",
+            "section": "loans",
+            "can_view": true,
+            "can_create": true,
+            "can_edit": false,
+            "can_approve": true,
+            "created_at": "2026-10-02T09:43:35.39424+00:00"
+        },
+        {
+            "id": "249afc0d-10b8-45b1-94eb-f0557f2ac629",
+            "user_id": "4fb584c8-7ce2-4730-92cf-38a6bd8b4e86",
+            "section": "repayments",
+            "can_view": true,
+            "can_create": true,
+            "can_edit": false,
+            "can_approve": false,
+            "created_at": "2026-10-02T09:43:35.39424+00:00"
+        }
+    ]
+}

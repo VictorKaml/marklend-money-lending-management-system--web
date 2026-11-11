@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>MarkLend Web</title><script>try{document.documentElement.dataset.theme=localStorage.getItem("ml-theme")||(matchMedia("(prefers-color-scheme:dark)").matches?"dark":"light")}catch(e){}</script><meta name="theme-color" content="#FF751F"><link rel="icon" type="image/png" href="assets/icons/icon.png"><link rel="shortcut icon" href="assets/icons/icon.ico">
+<link rel="stylesheet" href="src/styles.css">
+<link rel="stylesheet" href="src/ui.css">
+<link rel="icon" type="image/png" href="assets/brand/logo-mark.png">
+</head><body>
+<div class="startup" id="startupScreen"><div class="startup-dots" id="startupDots"></div>
+  <div class="startup-shell">
+    <section class="startup-brand">
+      <div class="startup-image-wrap"><img class="startup-image" src="assets/brand/splash.png" alt="MarkLend Financial Services"></div>
+      <h1>MarkLend</h1>
+      <p>Loan management, portfolio monitoring and financial records in your secure web workspace.</p>
+    </section>
+    <section class="startup-card">
+      <h2 id="startupTitle">Preparing MarkLend</h2>
+      <div class="startup-sub" id="startupSubtitle">Configuring the application and secure data connection.</div>
+      <div class="startup-step active" id="stepConfig"><span class="startup-dot"></span><span class="startup-status">Configuring application</span></div>
+      <div class="startup-step" id="stepConnection"><span class="startup-dot"></span><span class="startup-status">Preparing Supabase connection</span></div>
+      <div class="startup-step" id="stepData"><span class="startup-dot"></span><span class="startup-status">Preparing portfolio data</span></div>
+      <div class="startup-step" id="stepAuth"><span class="startup-dot"></span><span class="startup-status">Authentication</span></div>
+      <div class="startup-error" id="startupError"></div>
+      <div class="startup-ok" id="startupNotice"></div>
+      <div class="startup-form" id="startupConfigForm">
+        <label>Supabase project URL</label><input id="startupUrl" type="url" required>
+        <label>Supabase anon key</label><input id="startupKey" type="password" required>
+        <div class="startup-actions"><button class="startup-btn" onclick="startupSaveConfig()">Save configuration</button></div>
+      </div>
+      <div class="startup-form" id="startupLoginForm">
+        <label>Email</label><input id="startupEmail" type="email" required autocomplete="username">
+        <label>Password</label><input id="startupPassword" type="password" required autocomplete="current-password">
+        <label class="checkrow"><input id="rememberSession" type="checkbox" checked> Keep me signed in on this device</label>
+        <div class="startup-actions"><button class="startup-btn" id="startupLoginBtn" onclick="startupSignIn()">Sign in securely</button></div>
+        <button class="auth-link" onclick="showStartupSignup()">Create borrower account</button>
+      </div>
+      <div class="startup-form" id="startupSignupForm">
+        <div style="font-size:12px;font-weight:800;margin-bottom:10px;color:#fff">Create your MarkLend borrower account</div>
+        <div class="two"><div><label>Account type</label><select id="signupType"><option value="Individual">Individual</option><option value="Business">Business</option></select></div><div><label>Full name</label><input id="signupName" required autocomplete="name"></div></div>
+        <div id="signupBusinessWrap" style="display:none"><label>Business name</label><input id="signupBusiness" autocomplete="organization"></div>
+        <label>Email</label><input id="signupEmail" type="email" required autocomplete="email">
+        <label>Phone</label><input id="signupPhone" type="tel" autocomplete="tel">
+        <label>Password</label><input id="signupPassword" type="password" required minlength="8" autocomplete="new-password">
+        <div class="startup-actions"><button class="startup-btn" id="signupBtn" onclick="startupSignUp()">Create borrower account</button></div>
+        <button class="auth-link" onclick="showStartupLogin()">Back to sign in</button>
+      </div>
+      <div class="startup-ready" id="startupReady">Secure session ready. Loading your MarkLend dashboard…</div>
+    </section>
+  </div>
+</div>
+
+<div class="app"><aside class="sidebar"><div class="brand"><img class="brandlogo" src="assets/brand/logo-mark.png" alt="MarkLend"><div><strong>MarkLend</strong><small>LOAN MANAGEMENT</small></div></div><nav class="nav" id="nav"></nav><div class="side-bottom"><button class="side-toggle" onclick="toggleSide()" title="Collapse sidebar" aria-label="Collapse sidebar"><b>‹</b><span class="lbl">Collapse</span></button>Web Edition · Supabase backend<br><span id="connection">Not connected</span></div></aside>
+<main class="main"><header class="top"><div><h1 id="title">Dashboard</h1><p id="subtitle">Portfolio overview and collections</p></div><div class="header-actions"><button class="hbtn" onclick="openPalette()" title="Search (Ctrl+K)">Search <kbd>Ctrl K</kbd></button><button class="hbtn" id="themeBtn" onclick="toggleTheme()" aria-label="Toggle dark mode"></button><div class="user"><div><span id="roleText">Administrator</span><div class="user-email" id="userEmail">Not signed in</div></div><div class="avatar" id="userAvatar" title="View profile / change avatar" onclick="openProfileModal()">A</div></div><button class="signout-btn" onclick="signOutApp()">Sign out</button></div></header><section class="content" id="content"></section></main></div>
+<div class="lock-screen" id="lockScreen"><div class="lock-box"><img class="lock-logo" src="assets/brand/logo-mark.png" alt="MarkLend"><h2 style="margin:0 0 5px">MarkLend is locked</h2><p class="lock-sub">For your security, this session was locked after inactivity.</p><input id="unlockPassword" class="lock-input" type="password" placeholder="Password" autocomplete="current-password"><button class="btn primary" style="width:100%;margin-top:10px" onclick="unlockApp()">Unlock MarkLend</button><button class="auth-link" onclick="signOutApp()">Sign out instead</button><div id="unlockError" style="font-size:11px;color:#b42318;margin-top:8px"></div></div></div>
+<div class="modal" id="modal"><div class="modal-box" id="modalBox"></div></div><div class="notice" id="notice"></div>
+
+<script src="web-bridge.js"></script>
+<script src="src/api.js"></script>
+<script src="src/core.js"></script>
+<script src="src/data.js"></script>
+<script src="src/views.js"></script>
+<script src="src/auth.js"></script>
+<script src="src/profile.js"></script>
+<script src="src/staff.js"></script>
+<script src="src/modals.js"></script>
+<script src="src/invoice.js"></script>
+<script src="src/misc.js"></script>
+<script src="src/branches.js"></script>
+<script src="src/performance.js"></script>
+<script src="src/analysis.js"></script>
+<script src="src/lifecycle.js"></script>
+<script src="src/extend.js"></script>
+<script src="src/allocation.js"></script>
+<script src="src/updates.js"></script>
+<script src="src/boot.js"></script></body></html>
