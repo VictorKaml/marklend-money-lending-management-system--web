@@ -9,3 +9,5 @@
 .env
 .env.release
 .env.drizzle
+.env.old
+.env.example
